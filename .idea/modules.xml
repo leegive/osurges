@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/osurges.iml" filepath="$PROJECT_DIR$/osurges.iml" />
+      <module fileurl="file://$PROJECT_DIR$/osurges-demo/osurges-demo.iml" filepath="$PROJECT_DIR$/osurges-demo/osurges-demo.iml" />
+    </modules>
+  </component>
+</project>
